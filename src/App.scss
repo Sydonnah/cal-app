@@ -1,8 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .con {
@@ -19,10 +18,9 @@
   * {
     padding: 5px;
   }
+
   .con {
     max-width: 400px;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
   }
 }
@@ -44,4 +42,3 @@
     height: 915px;
   }
 }
-/*# sourceMappingURL=App.css.map */
